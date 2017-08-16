@@ -25,7 +25,7 @@ var xxx=null;
 if(x=="1"){xxx="/2017/07/jenis-kualitas-film.html"}
 if(x=="2"){xxx="/2017/08/bagi-kamu-para-penggemar-one-piece-6.html"}
 if(x=="3"){xxx="/2017/08/lirik-lagu-lost-boy-ruth-boy-terjemahan-indonesia.html"}
-if(x=="4"){xxx="/2017/08/lirik-lagu-luis-fonsi-despacito-dan-terjemahan-indonesia.html"}a_to_ve[i].href="https://levi-404.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/2017/08/lirik-lagu-luis-fonsi-despacito-dan-terjemahan-indonesia.html"}a_to_ve[i].href="https://www.karma21.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
